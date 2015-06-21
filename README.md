@@ -4,7 +4,7 @@ Quantum-Monokai is a monokai-based syntax theme for Atom. It combines the colors
 
 I use it with *Droid Sans Mono 13 / 1.5* and *file-icons* package.
 
-[](http://i.imgur.com/qN2M84V.png)
+![qunatum-monokai](http://i.imgur.com/qN2M84V.png)
 
 Fork:
 monokai: https://github.com/kevinsawicki/monokai
