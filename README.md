@@ -1,13 +1,12 @@
-# Quantum-Monokai theme
+# Quantum Monokai syntax
 
-Quantum-Monokai is a monokai-based syntax theme for Atom. It combines the colors of Quantum-UI keeping the aspect of monokai. 
+A monokai based syntax theme for Atom made for [quantum-ui](https://atom.io/themes/quantum-ui) theme. 
 
-I use it with *Droid Sans Mono 13 / 1.5* and *file-icons* package.
+![qunatum-monokai](http://i.imgur.com/KhcwIqr.png)
 
-![qunatum-monokai](http://i.imgur.com/qN2M84V.png)
+###Notes:
 
-Fork:
-monokai: https://github.com/kevinsawicki/monokai
-qunatum-ui: https://github.com/mbullington/quantum-ui
+*  monokai: https://github.com/kevinsawicki/monokai
+*  qunatum-ui: https://github.com/mbullington/quantum-ui
 
 Happy hacking!
