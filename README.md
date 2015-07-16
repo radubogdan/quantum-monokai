@@ -1,6 +1,6 @@
 # Quantum Monokai syntax
 
-A monokai based syntax theme for Atom made for [quantum-ui](https://atom.io/themes/quantum-ui) theme. 
+A monokai based syntax theme for Atom made for [quantum-ui](https://atom.io/themes/quantum-ui) theme.
 
 ![qunatum-monokai](http://i.imgur.com/KhcwIqr.png)
 
